@@ -11,6 +11,6 @@ Para ello por lo menos se deben de agregar un minimo de dos amigos :).
 ![Sorteo del Ganador](./assets/GanadorSorteado.png)
 
 
-[Pruebalo el Juego!!](https://michael4288.github.io/Challenge-Amigo-Secreto)
+[Prueba el Juego!!](https://michael4288.github.io/Challenge-Amigo-Secreto)
 
 
